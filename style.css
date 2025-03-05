@@ -363,10 +363,6 @@
 
     .project-image {
         width: 100%;
-<<<<<<< HEAD
-        padding-bottom: 56.25%; /* 16:9 aspect ratio */
-=======
->>>>>>> 6fbd2b1 (coloquei fotos)
         background-color: rgba(255, 255, 255, 0.05);
         position: relative;
     }
